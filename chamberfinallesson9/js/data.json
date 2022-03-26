@@ -1,0 +1,88 @@
+{
+    "directory": [
+      {
+        "companyname": "American Fork Chamber of Commerce",
+        "logourl": "images/directory/afchamber.webp",
+        "address": "31 Church St, American Fork, UT 84003",
+        "phone": 18017565110,
+        "website": ""
+      },
+      {
+        "companyname": "Alpine Business Brokers",
+        "logourl": "images/directory/alpine.png",
+        "address": "240 N 1200 E suite 202, Lehi, UT 84043",
+        "phone":  18012248848,
+        "website": "http://www.alpinebusinessbrokers.com/"
+      },
+      {
+        "companyname": "Canyon Business Operations, LLC",
+        "logourl": "images/directory/canyon",
+        "address": "",
+        "phone": 18015577669,
+        "website": "http://canyonbook.com/"
+      },
+      {
+        "companyname": "Point of the Mountain Chamber of Commerce",
+        "logourl": "images/directory/point.png",
+        "address": "225 E State St, Lehi, UT 84043",
+        "phone": 18019016664,
+        "website": "http://www.thepointchamber.com/"
+      },
+      {
+        "companyname": "Purple Crayon Solutions",
+        "logourl": "images/directory/purple.png",
+        "address": "770 E Main St #327, Lehi, UT 84043",
+        "phone": 5105346864,
+        "website": "http://purplecrayonsolutions.com/"
+      },
+      {
+        "companyname": "Del Taco",
+        "logourl": "images/directory/del.png",
+        "address": "424 N 900 W St, American Fork, UT 84003",
+        "phone": 18014921781,
+        "website": "deltaco.com/"
+      },
+      {
+        "companyname": "Arby's",
+        "logourl": "images/directory/logo.svg",
+        "address": "937 NW State St, American Fork, UT 84003",
+        "phone": 18014920560,
+        "website": "https://locations.arbys.com/"
+      },
+      {
+        "companyname": "The Smoked Taco",
+        "logourl": "",
+        "address": "933 W 500 N Ste 102, American Fork, UT 84003",
+        "phone": 18018215550,
+        "website": ""
+      },
+      {
+        "companyname": "Domino's Pizza",
+        "logourl": "images/directory/coke.png",
+        "address": "",
+        "phone": 13853529099,
+        "website": "https://www.dominos.com"
+      },
+      {
+        "companyname": "Rumbi Island Grill",
+        "logourl": "images/directory/logo1.jpg",
+        "address": "987 W 500 N, American Fork, UT 84003",
+        "phone":  18017563783,
+        "website": "http://www.rumbi.com/"
+      },
+      {
+        "companyname": "Apollo Burger",
+        "logourl": "images/directory/apollo.png",
+        "address": "504 N 900 W, American Fork, UT 84003",
+        "phone": 18016422481,
+        "website": "http://www.apolloburgers.com/"
+      },
+      {
+        "companyname": "Little India, Fine Dining",
+        "logourl": "images/directory/india.jpg",
+        "address": "987 W 500 N #101, American Fork, UT 84003",
+        "phone":  2487657785,
+        "website": "http://www.littleindiaut.com/"
+      }
+    ]
+}

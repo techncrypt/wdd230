@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Chamber WDD 230">
+    <title>The Spirit Of Enterprise</title>
+   
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/medium.css">
+    <link rel="stylesheet" href="./css/large.css">
+    <script src="./js/script.js"></script>
+    
+    <script defer src="js/windchill.js"></script>
+
+</head>
+<body>
+    <header>
+        <div class="header-logo">
+            <img src="./images/logo-white.png" alt="Website logo">
+            <div class="headings">
+                
+                <div class="motto">The Spirit Of Enterprise Chamber of Commerce</div>
+            </div>
+        </div>
+        
+        <nav>
+            <ul id="Nav">
+                <li><a href="https://techncrypt.github.io/wdd230/chamberfinallesson6/index.html">Contact</a></li>
+                <li><a href="https://techncrypt.github.io/wdd230/chamberfinallesson7/index.html">Discover</a></li>
+                <li><a href="https://techncrypt.github.io/wdd230/chamberfinallesson8/joinus.html">Join Us</a></li>
+                <li><a href="https://techncrypt.github.io/wdd230/chamberfinallesson9/directory.html">Directory</a></li>
+            </ul>
+        </nav>
+        <div class="header-date"><span id="currentDate"></span></div>
+        <div id="days-last-visit"></p></div>
+       
+    </header>
+    
+    <main>
+        
+        <form method="get" action="ye.html">
+            <fieldset>
+                <legend>Your Information</legend>
+                <label class="top">First Name* <input type="text" name="fname" required></label>
+                <label class="top">Last Name* <input type="text" name="lname" required></label>
+                <label class="top">tel <input type="tel" name="phone" placeholder="123456789"></label>
+                <label class="top">Email* <input type="email" name="email" placeholder="someone@gmail.com" required></label>
+            </fieldset>
+            <fieldset>
+                <legend>Buisness Subscription Level</legend>
+                <div>Subscription Level</div>
+                <label class="sbs"><input type="radio" name="audience" value="Free"> Free</label>
+                <label class="sbs"><input type="radio" name="audience" value="Bronze"> Bronze</label>
+                <label class="sbs"><input type="radio" name="audience" value="Silver"> Silver</label>
+                <label class="sbs"><input type="radio" name="audience" value="Gold"> Gold</label>
+
+            </fieldset>
+    
+            <fieldset>
+                <legend>Business Type</legend>
+                
+                <label class="top">Type
+                    <select name="subject">
+                        <option value="">Please Select &#9662;</option>
+                        <option value="business">Business Professional</option>
+                        <option value="construction">Construction</option>
+                        <option value="creative">Creative Professional</option>
+                        <option value="security">Cyber Security</option>
+                        <option value="data">Data Professional</option>
+                        <option value="info">Information Technology</option>
+                        <option value="manufacturing">Manufacturing</option>
+                        <option value="software">Software Development</option>
+                    </select>
+                </label>
+                
+            </fieldset>
+            <input type="submit" value="Submit" class="submitBtn">
+    
+        </form>
+            
+    
+              
+            
+        </main>
+<script src="js/lastvisit.js"></script>
+    <footer>
+        <img src="./images/logo-white.png" alt="Website logo">
+        
+        <div class="footer-info">
+
+            
+            <div class="socials">
+                <a href="#"><img src="./images/facebook-logo.png" alt="facebook-logo"></a>
+                <a href="#"><img src="./images/instagram-logo.png" alt="instagram-logo"></a>
+                <a href="https://www.google.com/maps/place/Draper,+UT/@40.4934495,-111.9225059,12z/data=!3m1!4b1!4m5!3m4!1s0x8752805153135f0f:0xea3aa3af26cf70b2!8m2!3d40.5246711!4d-111.8638226"><img src="./images/pin.jpeg" alt="location"></a>
+            </div>
+            <p>TheSpiritOfEnterpriseChamberofCommerce@byui.edu</p>
+            
+            
+        </div>
+        
+        <div class="info">
+            
+            <p>© <span id="currentYear"></span>  | Joe McKenzie | WDD 230 | Lesson 8</p>
+            <p id="lastUpdate"></p>
+    
+        </div>
+    </footer>
+
+</body>
+</html>
