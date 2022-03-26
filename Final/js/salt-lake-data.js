@@ -1,4 +1,4 @@
-var requestURL = 'https://techncrypt.github.io/assignments/term-project/json/templedata.json';
+var requestURL = 'https://github.com/techncrypt/wdd230/blob/main/Final/json/templedata.json';
 var request = new XMLHttpRequest();
 
 request.open('GET', requestURL);
